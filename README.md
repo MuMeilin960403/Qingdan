@@ -26,11 +26,17 @@
 
 > 截止提醒需要轻单正在运行（最小化、被其他窗口挡住或停留在迷你窗口时都可以）。关闭程序后不会再弹出系统通知。
 
-## 直接运行
+## 下载与运行
 
-解压 `dist\Qingdan-Windows-v1.2.0.zip`，双击 `Qingdan\Qingdan.exe`。
+Windows 免安装包请到 GitHub Releases 下载：
+
+**[下载轻单 v1.2.0](https://github.com/MuMeilin960403/Qingdan/releases/latest)**
+
+解压后双击 `Qingdan\Qingdan.exe`。
 
 > `Qingdan.exe` 旁边的 `_internal` 文件夹是程序的一部分，请保留整个 `Qingdan` 文件夹，不要只单独复制 exe。
+
+从源码打包的产物会生成在 `dist\Qingdan\Qingdan.exe`，详见下方的「打包」。
 
 ## 从源码运行
 
